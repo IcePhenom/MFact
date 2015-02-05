@@ -1,2 +1,2 @@
-# Mfact
-Mfact is a custom Framework based on Anax boilerplate by Mikael Roos at BTH
+# MFact
+MFact is a custom Framework based on Anax by Mikael Roos at BTH
